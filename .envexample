@@ -1,0 +1,8 @@
+DJANGO_SECRET=django-insecure-s@_kmp4$i(@oe66i*wo!@hne+e_7a%@43+o-4v3(qln!+upryc
+DJANGO_DEBUG=True
+
+DB_HOST=db
+DB_PORT=5432
+DB_NAME=postgres
+DB_USER=simon
+DB_PASS=admin
